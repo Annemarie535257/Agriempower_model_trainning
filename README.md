@@ -1,6 +1,3 @@
-Sure! Here's a concise summary of the **Introduction** and **Problem Statement**:
-
----
 
 ### ✅ **Introduction**
 
@@ -12,6 +9,8 @@ AgriEmpower Rwanda aims to improve loan access for women-led agricultural cooper
 
 Rural women face systemic barriers to credit because traditional lending requires documents, collateral, and bank proximity. Existing ML credit tools are built for urban users with smartphones, excluding rural women. AgriEmpower offers a solution by using locally relevant data and an interpretable ML model to predict loan eligibility, promoting financial inclusion.
 
+
+---
 
 ### 📊 Dataset Used
 
