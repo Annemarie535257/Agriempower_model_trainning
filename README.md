@@ -1,13 +1,13 @@
 
 ### ✅ **Introduction**
 
-AgriEmpower Rwanda aims to improve loan access for women-led agricultural cooperatives in rural Rwanda. These women are vital to the farming sector but are often excluded from formal credit due to lack of documentation and digital access. The project uses machine learning and alternative data—like crop yields and airtime usage—to assess loan eligibility via a web platform, enabling remote, fairer loan applications.
+AgriEmpower Rwanda aims to improve loan access for women-led agricultural cooperatives in rural Rwanda. These women are vital to the farming sector but are often excluded from formal credit due to lack of documentation and digital access. The project uses machine learning and alternative data—like age or credit score to assess loan eligibility.
 
 ---
 
 ### ❗ **Problem Statement**
 
-Rural women face systemic barriers to credit because traditional lending requires documents, collateral, and bank proximity. Existing ML credit tools are built for urban users with smartphones, excluding rural women. AgriEmpower offers a solution by using locally relevant data and an interpretable ML model to predict loan eligibility, promoting financial inclusion.
+Rural women face systemic barriers to credit because traditional lending requires documents, collateral, and bank proximity. AgriEmpower offers a solution by using locally relevant data and an interpretable ML model to predict loan eligibility, promoting financial inclusion.
 
 
 ---
