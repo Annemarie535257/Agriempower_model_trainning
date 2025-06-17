@@ -83,5 +83,5 @@ Model performance varied significantly across different optimizers and regulariz
 🎥 Demo Video
 A walkthrough of the loan approval prediction system, including model training, evaluation is available in the video below:
 
-Link to the demo video: 
+Link to the demo video: https://youtu.be/-DQbqtwK7uY
 
